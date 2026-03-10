@@ -168,7 +168,7 @@ osint-tool/
 ### Step 1 — Clone
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/osint-tool.git
+git clone https://github.com/Kodjocares/osint-tool.git
 cd osint-tool
 ```
 
